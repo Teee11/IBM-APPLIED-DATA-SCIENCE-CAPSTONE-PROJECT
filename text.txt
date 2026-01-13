@@ -1,0 +1,37 @@
+https://jupyterlab-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/akhue14/lab/tree/DS0203EN/labs/module_1_L2/jupyter-labs-spacex-data-collection-api.ipynb
+
+
+https://jupyterlab-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0203EN/labs/module_1_L2/jupyter-labs-spacex-data-collection-api.ipynb    This one part one
+
+https://jupyterlab-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0203EN/labs/module_1_L2/jupyter-labs-webscraping.ipynb   Part two
+
+https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0321EN/labs/module_1_L3/labs-jupyter-spacex-Data%20wrangling.ipynb   Third one
+
+
+https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0321EN/labs/module_2/SQLLIte/jupyter-labs-eda-sql-coursera_sqllite.ipynb FOURTH ONE
+
+
+https://jupyterlabnext-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/akhue14/files/DS0321EN/labs/module_2/SQLLIte/jupyter-labs-eda-sql-coursera_sqllite.ipynb?_xsrf=MnwxOjB8MTA6MTc2NjkzMTcyNnw1Ol94c3JmfDEzMjpZakJpWXpZNFpEaGpORGhpTkdZM1kySmxaalUzWVRRek56QTBOVFF6TXpZNk9XUXdNREV4WXpZd1pqZzJOVFl4TUdFNE5qUTBPVGRsTmpaaU56TmlOVGc0Wm1JME16ZzFZemd3TXpNeE5EQmhObVE1WXpJMFpHWTBObVkwTkRaalpRPT18N2I5ZGQ3YWViNGI1YWMwODE4N2NjYWRjNTBkMDE1MzBjNzIxZWUyZTE5N2IyYzhhOWY0NDA2N2FjODU2NmJmNQ.  Sql
+
+
+https://jupyterlabnext-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0321EN/labs/module_2/SQLLIte/jupyter-labs-eda-sql-coursera_sqllite.ipynb.  Sql
+
+https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/DS0321EN/labs/module_2/SQLLIte/my_data1.db ????
+
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_2%2Fedadataviz.ipynb  5th
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_2%2Fedadataviz.ipynb.  Visual.
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_2%2Fedadataviz.ipynb. VISUAL.
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_2%2Fedadataviz.ipynb. Visual new
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_3%2Flab_jupyter_launch_site_location.ipynb 6th
+
+
+https://cf-courses-data.static.labs.skills.network/jupyterlite/2.5.5/lab/index.html?path=DS0203EN%2Fmodule_4%2FSpaceX_Machine+Learning+Prediction_Part_5.ipynb  7th
+
+https://akhue14-8060.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/  8th
+
+https://labs.cognitiveclass.ai/v2/tools/cloud-ide-kubernetes?ulid=ulid-995b4342107e4c20f51620fda3814d437767d6f4  Last link
