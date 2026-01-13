@@ -39,11 +39,11 @@ CONCLUSION
 
  From the analysis of the datasets, several key insights were identified.
  
- 1.Launch sites with a higher number of flights tend to have higher success rates, and overall launch success increased steadily from 2013 to 2020.
+ 1. Launch sites with a higher number of flights tend to have higher success rates, and overall launch success increased steadily from 2013 to 2020.
 
- 2.Among the orbits analyzed, ES-L1, GEO, HEO, and SSO recorded the highest success rates, while KSC LC-39A emerged as the most successful launch site.
+ 2. Among the orbits analyzed, ES-L1, GEO, HEO, and SSO recorded the highest success rates, while KSC LC-39A emerged as the most successful launch site.
  
-3.Geospatial analysis using interactive maps and dashboards highlighted the influence of launch site location and payload mass on Falcon 9 first-stage landing success.
+3. Geospatial analysis using interactive maps and dashboards highlighted the influence of launch site location and payload mass on Falcon 9 first-stage landing success.
 
-4.In the predictive analysis, multiple classification models were evaluated. The Decision Tree classifier achieved the highest accuracy (0.8750), outperforming Logistic Regression, SVM, and KNN (each with an accuracy of 0.8333), making it the most effective model for predicting Falcon 9 landing success in this study.
+4. In the predictive analysis, multiple classification models were evaluated. The Decision Tree classifier achieved the highest accuracy (0.8750), outperforming Logistic Regression, SVM, and KNN (each with an accuracy of 0.8333), making it the most effective model for predicting Falcon 9 landing success in this study.
 
