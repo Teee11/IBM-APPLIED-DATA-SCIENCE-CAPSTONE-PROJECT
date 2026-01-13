@@ -1,12 +1,12 @@
 IBM-APPLIED-DATA-SCIENCE-CAPSTONE-PROJECT
 
 OUTLINE
-Executive Summary
-Introduction
-Methodology
-Results
-Conclusion
-Appendix 
+1. Executive Summary
+2. Introduction
+3. Methodology
+4. Results
+5. Conclusion
+6. Appendix 
 
 OVERVIEW
 This project adopts a comprehensive approach to predicting the successful landing of the SpaceX Falcon 9 first stage. Data was collected from Wikipedia through web scraping and supplemented with detailed launch records from the SpaceX API. The dataset was cleaned and formatted through handling missing values, encoding categorical variables, standardization, and removal of irrelevant features. Exploratory data analysis was performed using SQL to extract insights, supported by visualizations such as scatter plots and bar charts created with Matplotlib and Seaborn. Interactive geographic analysis was conducted using Folium maps, and a Plotly Dash application was developed to explore launch success rates dynamically.
