@@ -16,13 +16,19 @@ The prepared data was split into training and testing sets, normalized, and used
 Data Collection Methodology:
 
 Web Scraping
+
 Data was sourced from Wikipedia, providing historical information about the SpaceX Falcon 9 launch vehicle.
+
 SpaceX API: Additional data was sourced through the SpaceX API which supplied detailed records of launches, including launch dates, boosters informations and launch site locations.
+
 Perform Data Wrangling: Data cleaning includes handling missing values, hot encoding, standardization, maintenance of consistency, removing irrelevant columns.
+
 Perform exploratory data analysis (EDA) using visualization and SQL: EDA with SQL to derive insights and answer questions regarding data sets.
 Visualizations of launch success rate, launch sites, payloads through scatter graphs , bar charts using Seaborn and Matplotlib 
+
 Perform interactive visual analytics using Folium and Plotly Dash: Use of Folium in generating interactive maps. 
 Development of plotly dash application to analyze launch success rates.
+
 Perform predictive analysis using classification models: Machine Learning Predictive Analysis, Train data, test and split data
 and data normalization. Hyperparameter tuning to maximize accuracy of predictive models
 Evaluation of Models
